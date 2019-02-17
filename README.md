@@ -8,7 +8,7 @@ DifferentSLIAutoLoader is made for use with DifferentSLIAuto patch. It's a simpl
 How to use it with DifferentSLIAuto patch?
 ---
 You need to follow steps from my TechPowerUP forum post:
-https://www.techpowerup.com/forums/threads/sli-with-different-cards.158907/page-123#post-3995072
+https://www.techpowerup.com/forums/threads/sli-with-different-cards.158907/post-3996362
 
 Respositories and apps used in DifferentSLIAutoLoader
 ---
