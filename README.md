@@ -28,7 +28,7 @@ https://www.techpowerup.com/forums/threads/sli-with-different-cards.158907/page-
 
 https://www.techpowerup.com/forums/threads/sli-with-different-cards.158907/page-121#post-3988487
 
-##Respositories and apps used in DifferentSLIAutoLoader
+## Respositories and apps used in DifferentSLIAutoLoader
 DSEFix by hfiref0x:
 https://github.com/hfiref0x/DSEFix
 
