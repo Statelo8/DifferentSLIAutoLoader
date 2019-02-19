@@ -1,11 +1,11 @@
 # DifferentSLIAutoLoader
 Simple console application made in C# for loading Nvidia unsigned driver.
 
-##What is this for?
+## What is this for?
 
 DifferentSLIAutoLoader is made for use with DifferentSLIAuto patch. It's a simple console application made in C# that allow you to load unsigned GPU driver without using Test Mode. 
 
-##How to use it with DifferentSLIAuto patch?
+## How to use it with DifferentSLIAuto patch?
 1. Install original Nvidia Driver.
 2. Download DifferentSLIAutoLoader from Github and extract it.
 3. Copy nvlddmkm.sys from System32 to DifferentSLIAuto patch folder. You can search for "nvlddmkm" in System32 folder or open Device Manager and open GPU details, Driver tab, Driver details button and look for file there.
@@ -20,7 +20,7 @@ DifferentSLIAutoLoader is made for use with DifferentSLIAuto patch. It's a simpl
 12. Find Install script in DifferentSLIAutoLoader folder and run it as Admin.
 13. Success!
 
-#####If you move DifferentSLIAutoTools somewhere else on your PC, you need to run install script again to update location.
+##### If you move DifferentSLIAutoTools somewhere else on your PC, you need to run install script again to update location.
 
 To find what you need to edit in HexEditor, head over to techpowerup forum:
 
